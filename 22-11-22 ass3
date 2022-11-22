@@ -1,0 +1,13 @@
+program to read studentsdata and display it(sno,name,gender,group,address,phno)
+sno=int(input())
+name=input()
+gender=input()
+group=input()
+address=input()
+phno=int(input())
+print('student number:',sno)
+print('student name:',name)
+print('gender:',gender)
+print('address:',address)
+print('phno:',phno)
+
